@@ -1,0 +1,25 @@
+# Fichiers IDEA
+*.ipr
+*.iws
+*.iml
+.idea/
+
+## Fichiers d'Eclipse
+.project
+.settings/
+.classpath
+
+## Fichiers de GWT
+.gwt/
+gwt-unitCache/
+
+
+# Fichiers de compilation projet
+target/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/bin
